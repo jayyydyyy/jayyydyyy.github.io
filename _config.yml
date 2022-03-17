@@ -18,14 +18,32 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jordan Myers Personal Website
+title: Jordan Myers
+author: Jordan Myers
 email: myers.jordan.d AT gmail DOT com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the personal website, portfolio, and blog for Jordan Myers!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+logo: /assets/img/profile.jpg
+#Sidebar stuff!
+sidebar:
+  - name: Blog
+    icon: <i class="fa-solid fa-book-open"></i>
+    link: /blog
+  - name: Projects
+    icon: <i class="fa-solid fa-chalkboard-user"></i>
+    link: /projects
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/jayyydyyy
+  - name: Medium
+    icon: <i class="fa-brands fa-medium"></i>
+    link: https://medium.com/@jayyydyyy
+  - name: Twitter
+    icon: <i class="fa-brands fa-twitter-square"></i>
+    link: https://twitter.com/jdmyers_io
+
 
 # Build settings
 remote_theme: BDHU/minimalist
