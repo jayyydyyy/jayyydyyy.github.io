@@ -6,6 +6,7 @@ permalink: /projects/
 ---
 
 # Projects
-## Toki! 🐦
-### Here you can find all of my presentable projects:
+
+### Hi! 🐦 
+Here you can find all of my presentable projects:
 ---

@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Note 1 - More a less a test"
+subtitle: "A test note!"
+date:   2022-05-08
+category: test
+tag: note
+---
+
+# Note 1
+
+Hey! You've found my test note! I mean, it mustn't have been very hard as it should be listed with all my notes on the main blog navigation page :P
+
+There isn't much else here, I really just wanted to test if I was separating main blog posts from notes using Jekyll's tag system correctly. 
+
+And hey, I've done it!
+
+see you around 

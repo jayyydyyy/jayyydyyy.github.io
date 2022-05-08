@@ -25,15 +25,15 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the personal website, portfolio, and blog for Jordan Myers!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-logo: /assets/img/profile.jpg
+logo: /assets/img/DSC_2076-2-small.png
 #Sidebar stuff!
 sidebar:
   - name: Blog
     icon: <i class="fa-solid fa-book-open"></i>
     link: /blog
-  - name: Projects
-    icon: <i class="fa-solid fa-chalkboard-user"></i>
-    link: /projects
+  #- name: Projects
+  #  icon: <i class="fa-solid fa-chalkboard-user"></i>
+  #  link: /projects
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/jayyydyyy
